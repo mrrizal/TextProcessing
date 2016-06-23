@@ -1,3 +1,3 @@
 # TextProcessing
 
-catatan untuk tugas akhir
+for Python 3
